@@ -1,4 +1,4 @@
-# Kodlama.io 2024 Yazılım Geliştirici Yetiştirme Kampı (C#) 2.hafta ödevidir.
+# Kodlama.io 2024 Software Developer Training Camp (C#) 2nd week assignment.
 
 :speech_balloon: Model the Course, Category, Instructor objects on the Kodlama.io home page. Build relationships. Simulate all CRUD operations in a layered structure.
 
